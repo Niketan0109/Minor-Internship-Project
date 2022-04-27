@@ -1,2 +1,2 @@
 # Minor-Internship-Project
-# Social Distancing Detetor
+# Social Distancing Detector
